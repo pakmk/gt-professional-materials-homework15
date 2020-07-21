@@ -2,7 +2,7 @@
 
 ## Description
 
-This is my portfolio site (updated for homework07). It is designed to meet the criteria for GT Full-Stack Flex program homework.
+This is my portfolio site (updated for homework13). It is designed to meet the criteria for GT Full-Stack Flex program homework.
 
 It is built using Bootstrap CSS.
 
@@ -21,9 +21,9 @@ It is built using Bootstrap CSS.
 
 ## Usage
 
-[Deployed HTML Website](https://pakmk.github.io/gt-professional-materials-homework07/)
+[Deployed HTML Website](https://pakmk.github.io/gt-professional-materials-homework15/)
 
-![Min's Website](./assets/images/aboutme2.png)
+![Min's Website](./assets/images/aboutme3.png)
 
 ## Credits
 
