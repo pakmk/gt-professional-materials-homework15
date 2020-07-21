@@ -1,0 +1,43 @@
+.navbar-brand {
+  background-color: #4baaa5;
+  text-align: center;
+  color: white !important;
+}
+
+body {
+  background-image: url("../images/homework02background.png");
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  color: #4baaa5;
+}
+
+.btn {
+  background-color: #4baaa5;
+  border-color: #4baaa5;
+}
+
+hr {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  border: 0;
+  border-top: 2px solid rgba(0, 0, 0, 0.1);
+}
+
+.form-group {
+  font-weight: bold;
+}
+
+footer {
+  text-align: center;
+}
+
+.jumbotron {
+  background-color: white;
+}
+
+.projectOne {
+  text-align: center;
+  font-weight: bold;
+}
